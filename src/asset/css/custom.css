@@ -1,0 +1,25 @@
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.videoCustom {
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  min-width: 400px;
+}
+.Videoh1 {
+  font-size: 120px;
+  color: #fff;
+  font-weight: bold;
+}
+.videoText {
+  color: #fff;
+  font-weight: bold;
+  font-size: 80px;
+  width: 140rem;
+  margin-top: 5rem;
+}
